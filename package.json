@@ -8,9 +8,20 @@
   },
   "author": "Chad Jones <chadananda@gmail.com> (http://bahai-education.org/)",
   "license": "ISC",
-
-
   "bin": {
-      "ocntools": "ocntools.js"
-    }
+    "ocntools": "ocntools.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chadananda/ocntools.git"
+  },
+  "keywords": [
+    "ocean",
+    "ocn",
+    "chad"
+  ],
+  "bugs": {
+    "url": "https://github.com/chadananda/ocntools/issues"
+  },
+  "homepage": "https://github.com/chadananda/ocntools"
 }
