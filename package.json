@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/chadananda/ocntools/issues"
   },
-  "homepage": "https://github.com/chadananda/ocntools"
+  "homepage": "https://github.com/chadananda/ocntools",
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "commander": "^2.7.1",
+    "request": "^2.54.0"
+  }
 }
